@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Freelancer Notify", null, "/html/panel.html", null);

@@ -1,0 +1,13 @@
+{
+  "name" : "Freelancer.com Project Notifier",
+  "version" : "1.0",
+  "manifest_version" : 2,
+  "description" : "Notification plugin for freelancer.com",
+  "author" : "Precious Amesinlola",
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "notifications"
+  ],
+  "devtools_page" : "html/devtools.html" 
+}
